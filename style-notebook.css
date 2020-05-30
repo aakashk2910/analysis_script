@@ -1,0 +1,17 @@
+h3 {
+    color: white;
+    background-color: black;
+    padding: 0.5em;
+}
+
+.CodeMirror {
+    font-family: 'Consolas';
+}
+
+div.cell.code_cell {
+    font-family: 'Consolas';
+}
+
+div.output_area pre {
+    font-family: 'Consolas';
+}
